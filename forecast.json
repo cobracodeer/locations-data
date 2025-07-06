@@ -1,1 +1,29 @@
-test
+[
+  {
+    "timestamp": "2025-07-06T06:00:00Z",
+    "swells": [
+      { "height": 4.2, "period": 13, "direction": 230 },
+      { "height": 2.5, "period": 10, "direction": 190 },
+      { "height": 1.8, "period": 8,  "direction": 120 }
+    ],
+    "wind": { "speed": 12.4, "direction": 310 }
+  },
+  {
+    "timestamp": "2025-07-06T07:00:00Z",
+    "swells": [
+      { "height": 4.3, "period": 13, "direction": 228 },
+      { "height": 2.6, "period": 10, "direction": 192 },
+      { "height": 1.7, "period": 7,  "direction": 115 }
+    ],
+    "wind": { "speed": 11.9, "direction": 305 }
+  },
+  {
+    "timestamp": "2025-07-06T08:00:00Z",
+    "swells": [
+      { "height": 4.1, "period": 12, "direction": 232 },
+      { "height": 2.4, "period": 9,  "direction": 185 },
+      { "height": 1.6, "period": 7,  "direction": 110 }
+    ],
+    "wind": { "speed": 11.6, "direction": 298 }
+  }
+]
