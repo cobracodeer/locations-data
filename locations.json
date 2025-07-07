@@ -1,2002 +1,370 @@
 [
-  {
-    "name": "Montauk",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Rockaway Beach",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Long Beach",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Cape May",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Sandy Hook",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Manasquan",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Belmar",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "LBI",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Rehoboth Beach",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Ocean City",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Virginia Beach",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Outer Banks",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Wrightsville Beach",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Myrtle Beach",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Folly Beach",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Tybee Island",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Cocoa Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Sebastian Inlet",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "New Smyrna Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Daytona Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ponce Inlet",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Flagler Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "St. Augustine",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Jacksonville Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Pensacola Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Navarre Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Panama City Beach",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean Beach",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Mavericks",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Santa Cruz",
-    "region": "California, USA"
-  },
-  {
-    "name": "Steamer Lane",
-    "region": "California, USA"
-  },
-  {
-    "name": "Malibu",
-    "region": "California, USA"
-  },
-  {
-    "name": "Venice Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "Manhattan Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "Huntington Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "Newport Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "Trestles",
-    "region": "California, USA"
-  },
-  {
-    "name": "Black's Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "La Jolla Shores",
-    "region": "California, USA"
-  },
-  {
-    "name": "Imperial Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "Oceanside",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pismo Beach",
-    "region": "California, USA"
-  },
-  {
-    "name": "Morro Bay",
-    "region": "California, USA"
-  },
-  {
-    "name": "Seaside",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Cannon Beach",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Pacific City",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Westport",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "La Push",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "South Padre Island",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Port Aransas",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Galveston",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Pipeline",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Waimea Bay",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Ke Iki",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Waikiki",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Ehukai",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rocky Point",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Makaha",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Honolua Bay",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Jaws",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Poipu Beach",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Hanalei Bay",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Cannon Beach 6288",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Waikiki 9627",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Long Beach 5461",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Waimea Bay 2827",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Pismo Beach 9458",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pipeline 1389",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Flagler Beach 9520",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Waimea Bay 5321",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Outer Banks 6580",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Poipu Beach 3321",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Rockaway Beach 4950",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Long Beach 7286",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Santa Cruz 4534",
-    "region": "California, USA"
-  },
-  {
-    "name": "Jacksonville Beach 1550",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Sebastian Inlet 5168",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Navarre Beach 3051",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Rehoboth Beach 7366",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Mavericks 4970",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Navarre Beach 3809",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Cape May 3636",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Steamer Lane 7227",
-    "region": "California, USA"
-  },
-  {
-    "name": "Myrtle Beach 5489",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Galveston 7214",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Huntington Beach 5148",
-    "region": "California, USA"
-  },
-  {
-    "name": "Steamer Lane 9312",
-    "region": "California, USA"
-  },
-  {
-    "name": "Myrtle Beach 7606",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "LBI 7272",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Pismo Beach 8150",
-    "region": "California, USA"
-  },
-  {
-    "name": "Cocoa Beach 6662",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Waimea Bay 1241",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Mavericks 7363",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Black's Beach 8736",
-    "region": "California, USA"
-  },
-  {
-    "name": "Panama City Beach 4749",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Jacksonville Beach 9909",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Panama City Beach 8012",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Santa Cruz 6146",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ocean City 4796",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Myrtle Beach 8686",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Seaside 2327",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Pacific City 8743",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Santa Cruz 8746",
-    "region": "California, USA"
-  },
-  {
-    "name": "Manhattan Beach 9884",
-    "region": "California, USA"
-  },
-  {
-    "name": "South Padre Island 6015",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Rehoboth Beach 8485",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Steamer Lane 1323",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pismo Beach 2798",
-    "region": "California, USA"
-  },
-  {
-    "name": "Cocoa Beach 9081",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ponce Inlet 3730",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Outer Banks 7253",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Rehoboth Beach 4750",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "South Padre Island 5303",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Cocoa Beach 1684",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Waikiki 1542",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Huntington Beach 7152",
-    "region": "California, USA"
-  },
-  {
-    "name": "Rocky Point 9255",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Pacific City 3716",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Sandy Hook 7917",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Ehukai 7426",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "La Jolla Shores 9307",
-    "region": "California, USA"
-  },
-  {
-    "name": "Trestles 3045",
-    "region": "California, USA"
-  },
-  {
-    "name": "Malibu 7201",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ehukai 6402",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "La Push 4244",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Folly Beach 9875",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Port Aransas 1088",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Newport Beach 7728",
-    "region": "California, USA"
-  },
-  {
-    "name": "Waikiki 3674",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Makaha 2936",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "South Padre Island 3413",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Wrightsville Beach 3514",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Cocoa Beach 7297",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Outer Banks 4166",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Tybee Island 8966",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Myrtle Beach 6310",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Hanalei Bay 8934",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Imperial Beach 3912",
-    "region": "California, USA"
-  },
-  {
-    "name": "Steamer Lane 8501",
-    "region": "California, USA"
-  },
-  {
-    "name": "Daytona Beach 4578",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Poipu Beach 8494",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Galveston 3473",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Imperial Beach 8028",
-    "region": "California, USA"
-  },
-  {
-    "name": "Virginia Beach 9481",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Mavericks 5496",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Sandy Hook 8377",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Ke Iki 1858",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Virginia Beach 6999",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Huntington Beach 9210",
-    "region": "California, USA"
-  },
-  {
-    "name": "Jacksonville Beach 6947",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Waimea Bay 8210",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Port Aransas 3297",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Panama City Beach 5134",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Flagler Beach 6527",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Mavericks 4707",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Belmar 7381",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Waikiki 4941",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Flagler Beach 4536",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Flagler Beach 8267",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Belmar 5077",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Waimea Bay 8642",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Hanalei Bay 2970",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Jaws 9996",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Honolua Bay 5226",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Port Aransas 2807",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Wrightsville Beach 5201",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "New Smyrna Beach 8108",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Pipeline 2561",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Black's Beach 6146",
-    "region": "California, USA"
-  },
-  {
-    "name": "Rocky Point 5181",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Ocean Beach 3415",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Huntington Beach 2207",
-    "region": "California, USA"
-  },
-  {
-    "name": "Cocoa Beach 7017",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Manasquan 1470",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Ocean Beach 6537",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Black's Beach 3612",
-    "region": "California, USA"
-  },
-  {
-    "name": "Sandy Hook 4226",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Rocky Point 9626",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Seaside 7314",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Cocoa Beach 9788",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean Beach 4737",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Galveston 3107",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Daytona Beach 3211",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean City 1585",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Imperial Beach 3088",
-    "region": "California, USA"
-  },
-  {
-    "name": "Black's Beach 5875",
-    "region": "California, USA"
-  },
-  {
-    "name": "La Jolla Shores 7333",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ocean City 8739",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Sandy Hook 6918",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Ke Iki 4534",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Cocoa Beach 7073",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Seaside 8418",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Makaha 2758",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Virginia Beach 2342",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Malibu 3711",
-    "region": "California, USA"
-  },
-  {
-    "name": "Tybee Island 7863",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Daytona Beach 7369",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Jaws 3044",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Jacksonville Beach 3553",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean City 8202",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Pacific City 9839",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "La Push 6814",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Oceanside 2626",
-    "region": "California, USA"
-  },
-  {
-    "name": "Manasquan 7378",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Venice Beach 2534",
-    "region": "California, USA"
-  },
-  {
-    "name": "Cocoa Beach 9043",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Daytona Beach 3804",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean City 6505",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Ocean City 8268",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Jacksonville Beach 9744",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Jaws 1844",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Ke Iki 6997",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Westport 7923",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "South Padre Island 8703",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "La Push 9778",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Poipu Beach 7993",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Westport 6092",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Malibu 8077",
-    "region": "California, USA"
-  },
-  {
-    "name": "Hanalei Bay 4031",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Seaside 6670",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Malibu 5607",
-    "region": "California, USA"
-  },
-  {
-    "name": "Westport 2478",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Virginia Beach 1101",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Ke Iki 9029",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Venice Beach 1569",
-    "region": "California, USA"
-  },
-  {
-    "name": "South Padre Island 8415",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Cape May 8224",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Panama City Beach 2134",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Navarre Beach 9594",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean Beach 2388",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Galveston 3691",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Huntington Beach 2145",
-    "region": "California, USA"
-  },
-  {
-    "name": "Long Beach 1690",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Ke Iki 7065",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Wrightsville Beach 7380",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Trestles 7139",
-    "region": "California, USA"
-  },
-  {
-    "name": "Sebastian Inlet 2464",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Galveston 9744",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Malibu 5450",
-    "region": "California, USA"
-  },
-  {
-    "name": "Rockaway Beach 8437",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Montauk 3701",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Flagler Beach 1819",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Long Beach 4715",
-    "region": "New York, USA"
-  },
-  {
-    "name": "La Push 6058",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Ocean Beach 4844",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Mavericks 8861",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Flagler Beach 9545",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "South Padre Island 3583",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Folly Beach 3814",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Imperial Beach 2992",
-    "region": "California, USA"
-  },
-  {
-    "name": "Imperial Beach 5063",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ke Iki 1542",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Pensacola Beach 8505",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "LBI 5397",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Galveston 9807",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Waikiki 1083",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Venice Beach 1199",
-    "region": "California, USA"
-  },
-  {
-    "name": "Malibu 8611",
-    "region": "California, USA"
-  },
-  {
-    "name": "Manasquan 1038",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Venice Beach 2272",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pipeline 6844",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Outer Banks 7120",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Virginia Beach 5556",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Mavericks 7842",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Pacific City 9200",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Makaha 6790",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rockaway Beach 2763",
-    "region": "New York, USA"
-  },
-  {
-    "name": "LBI 5563",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "New Smyrna Beach 3902",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Imperial Beach 2982",
-    "region": "California, USA"
-  },
-  {
-    "name": "Waikiki 3750",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Sandy Hook 6530",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Mavericks 4545",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Honolua Bay 4744",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Pacific City 9512",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Ocean Beach 1389",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Galveston 2706",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Sebastian Inlet 7002",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Virginia Beach 7277",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Morro Bay 3787",
-    "region": "California, USA"
-  },
-  {
-    "name": "Belmar 2428",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Myrtle Beach 8285",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Mavericks 5928",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Folly Beach 9475",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Huntington Beach 2867",
-    "region": "California, USA"
-  },
-  {
-    "name": "Sandy Hook 7989",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Ke Iki 9354",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rehoboth Beach 1023",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Waikiki 1549",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Mavericks 2841",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Venice Beach 6036",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ponce Inlet 7849",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Trestles 8304",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ehukai 3702",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Panama City Beach 2750",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Pacific City 2236",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Honolua Bay 6914",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Tybee Island 6866",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Steamer Lane 9517",
-    "region": "California, USA"
-  },
-  {
-    "name": "Mavericks 6134",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Steamer Lane 3665",
-    "region": "California, USA"
-  },
-  {
-    "name": "Daytona Beach 3808",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Waikiki 4488",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Flagler Beach 8451",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Port Aransas 3422",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Trestles 8729",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pacific City 5394",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Panama City Beach 2431",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Cannon Beach 2692",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Pensacola Beach 5521",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Waimea Bay 8557",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Cape May 7591",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Daytona Beach 1188",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Honolua Bay 8307",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Black's Beach 9956",
-    "region": "California, USA"
-  },
-  {
-    "name": "Folly Beach 8092",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Sebastian Inlet 4898",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "New Smyrna Beach 8269",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Seaside 9558",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Trestles 2516",
-    "region": "California, USA"
-  },
-  {
-    "name": "Cocoa Beach 5588",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Wrightsville Beach 4815",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Cape May 4126",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Santa Cruz 1240",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pismo Beach 4079",
-    "region": "California, USA"
-  },
-  {
-    "name": "New Smyrna Beach 4803",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Pipeline 6276",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Jaws 5164",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Sebastian Inlet 5439",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "South Padre Island 7712",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "La Jolla Shores 9173",
-    "region": "California, USA"
-  },
-  {
-    "name": "Malibu 2133",
-    "region": "California, USA"
-  },
-  {
-    "name": "Outer Banks 5942",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Honolua Bay 3446",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Huntington Beach 8968",
-    "region": "California, USA"
-  },
-  {
-    "name": "La Push 6839",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Pacific City 6430",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Navarre Beach 7309",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Mavericks 6730",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Rehoboth Beach 4479",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Black's Beach 7491",
-    "region": "California, USA"
-  },
-  {
-    "name": "Oceanside 8500",
-    "region": "California, USA"
-  },
-  {
-    "name": "Port Aransas 9201",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Makaha 9722",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Jacksonville Beach 2699",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "La Jolla Shores 9818",
-    "region": "California, USA"
-  },
-  {
-    "name": "Montauk 2822",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Honolua Bay 3172",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Belmar 2470",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Panama City Beach 2968",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Outer Banks 2508",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Montauk 3047",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Folly Beach 5578",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Rehoboth Beach 2983",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Pensacola Beach 9643",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Jaws 2110",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Jaws 2234",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Virginia Beach 7161",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Ponce Inlet 4379",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "LBI 5048",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Galveston 4157",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Mavericks 7148",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Folly Beach 5723",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "La Jolla Shores 7135",
-    "region": "California, USA"
-  },
-  {
-    "name": "Cape May 6785",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Pismo Beach 2870",
-    "region": "California, USA"
-  },
-  {
-    "name": "Myrtle Beach 7697",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Long Beach 9289",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Pensacola Beach 8953",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Cannon Beach 5419",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Imperial Beach 2414",
-    "region": "California, USA"
-  },
-  {
-    "name": "Montauk 7827",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Morro Bay 7019",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ponce Inlet 1010",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Tybee Island 3965",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Sebastian Inlet 7048",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ehukai 7138",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Montauk 3936",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Virginia Beach 5209",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Manasquan 5263",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Manhattan Beach 8719",
-    "region": "California, USA"
-  },
-  {
-    "name": "Flagler Beach 3005",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Oceanside 8757",
-    "region": "California, USA"
-  },
-  {
-    "name": "Myrtle Beach 1234",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Pismo Beach 1867",
-    "region": "California, USA"
-  },
-  {
-    "name": "Oceanside 4026",
-    "region": "California, USA"
-  },
-  {
-    "name": "Huntington Beach 7291",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pacific City 5645",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Black's Beach 5520",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ponce Inlet 6222",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Manhattan Beach 9960",
-    "region": "California, USA"
-  },
-  {
-    "name": "Honolua Bay 7460",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Jacksonville Beach 2007",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Montauk 3354",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Hanalei Bay 6666",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Jaws 2950",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Sandy Hook 1431",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Oceanside 2330",
-    "region": "California, USA"
-  },
-  {
-    "name": "Poipu Beach 7360",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Hanalei Bay 7194",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Steamer Lane 1621",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ocean City 5131",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Trestles 7769",
-    "region": "California, USA"
-  },
-  {
-    "name": "South Padre Island 6908",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Imperial Beach 4647",
-    "region": "California, USA"
-  },
-  {
-    "name": "Wrightsville Beach 5154",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Poipu Beach 3801",
-    "region": "Kauai, Hawaii, USA"
-  },
-  {
-    "name": "Manhattan Beach 5761",
-    "region": "California, USA"
-  },
-  {
-    "name": "Manasquan 4838",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Mavericks 5928",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Rocky Point 7948",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Pipeline 1640",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Myrtle Beach 2604",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Ehukai 9180",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Long Beach 5512",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Black's Beach 3069",
-    "region": "California, USA"
-  },
-  {
-    "name": "Makaha 5496",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rocky Point 4559",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Cannon Beach 1005",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Rockaway Beach 4792",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Imperial Beach 5032",
-    "region": "California, USA"
-  },
-  {
-    "name": "Ehukai 6235",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rockaway Beach 6316",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Steamer Lane 7287",
-    "region": "California, USA"
-  },
-  {
-    "name": "Panama City Beach 6335",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Virginia Beach 1540",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "Rocky Point 1729",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Makaha 7287",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rocky Point 5922",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Imperial Beach 7929",
-    "region": "California, USA"
-  },
-  {
-    "name": "South Padre Island 8660",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Daytona Beach 6658",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Panama City Beach 4914",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Westport 6269",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Mavericks 9610",
-    "region": "Half Moon Bay, California, USA"
-  },
-  {
-    "name": "Ehukai 4804",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Manhattan Beach 4862",
-    "region": "California, USA"
-  },
-  {
-    "name": "Tybee Island 2825",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Pismo Beach 4577",
-    "region": "California, USA"
-  },
-  {
-    "name": "St. Augustine 9770",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Rehoboth Beach 1431",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Manhattan Beach 9342",
-    "region": "California, USA"
-  },
-  {
-    "name": "Daytona Beach 9951",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Ocean Beach 2532",
-    "region": "San Francisco, California, USA"
-  },
-  {
-    "name": "Black's Beach 8931",
-    "region": "California, USA"
-  },
-  {
-    "name": "Honolua Bay 2954",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "Ke Iki 2603",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Black's Beach 5494",
-    "region": "California, USA"
-  },
-  {
-    "name": "Pacific City 8805",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Virginia Beach 3366",
-    "region": "Virginia, USA"
-  },
-  {
-    "name": "New Smyrna Beach 9548",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Sandy Hook 8127",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Pipeline 8009",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "La Push 9760",
-    "region": "Washington, USA"
-  },
-  {
-    "name": "Sandy Hook 9364",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Jacksonville Beach 9180",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Montauk 6775",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Daytona Beach 1783",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Steamer Lane 2699",
-    "region": "California, USA"
-  },
-  {
-    "name": "Black's Beach 8923",
-    "region": "California, USA"
-  },
-  {
-    "name": "Imperial Beach 7855",
-    "region": "California, USA"
-  },
-  {
-    "name": "Oceanside 5030",
-    "region": "California, USA"
-  },
-  {
-    "name": "South Padre Island 6067",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Flagler Beach 9580",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Wrightsville Beach 3832",
-    "region": "North Carolina, USA"
-  },
-  {
-    "name": "Rocky Point 3287",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Trestles 8290",
-    "region": "California, USA"
-  },
-  {
-    "name": "LBI 1573",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "South Padre Island 7033",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Imperial Beach 5876",
-    "region": "California, USA"
-  },
-  {
-    "name": "Myrtle Beach 3081",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Ocean City 8413",
-    "region": "Maryland, USA"
-  },
-  {
-    "name": "Daytona Beach 4464",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Rocky Point 3113",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rehoboth Beach 2736",
-    "region": "Delaware, USA"
-  },
-  {
-    "name": "Montauk 9744",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Folly Beach 5156",
-    "region": "South Carolina, USA"
-  },
-  {
-    "name": "Manhattan Beach 7767",
-    "region": "California, USA"
-  },
-  {
-    "name": "Panama City Beach 5220",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Cape May 6529",
-    "region": "New Jersey, USA"
-  },
-  {
-    "name": "Cocoa Beach 8181",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Jaws 7667",
-    "region": "Maui, Hawaii, USA"
-  },
-  {
-    "name": "South Padre Island 3861",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Waimea Bay 5324",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Rocky Point 6725",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Cannon Beach 8101",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Pipeline 7149",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Newport Beach 5911",
-    "region": "California, USA"
-  },
-  {
-    "name": "Venice Beach 7012",
-    "region": "California, USA"
-  },
-  {
-    "name": "Montauk 4864",
-    "region": "New York, USA"
-  },
-  {
-    "name": "Ke Iki 9299",
-    "region": "Oahu, Hawaii, USA"
-  },
-  {
-    "name": "Sebastian Inlet 9821",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Galveston 9989",
-    "region": "Texas, USA"
-  },
-  {
-    "name": "Cannon Beach 3716",
-    "region": "Oregon, USA"
-  },
-  {
-    "name": "Malibu 9231",
-    "region": "California, USA"
-  },
-  {
-    "name": "Oceanside 7803",
-    "region": "California, USA"
-  },
-  {
-    "name": "Santa Cruz 6121",
-    "region": "California, USA"
-  },
-  {
-    "name": "Tybee Island 2832",
-    "region": "Georgia, USA"
-  },
-  {
-    "name": "Flagler Beach 8507",
-    "region": "Florida, USA"
-  },
-  {
-    "name": "Malibu 6388",
-    "region": "California, USA"
-  }
+    {
+        "name": "Cape May",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Sandy Hook",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Belmar",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Manasquan Inlet",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Asbury Park",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Long Beach Island",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Atlantic City",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Wildwood",
+        "region": "New Jersey, USA"
+    },
+    {
+        "name": "Montauk",
+        "region": "New York, USA"
+    },
+    {
+        "name": "Rockaway Beach",
+        "region": "New York, USA"
+    },
+    {
+        "name": "Long Beach",
+        "region": "New York, USA"
+    },
+    {
+        "name": "Fire Island",
+        "region": "New York, USA"
+    },
+    {
+        "name": "Jones Beach",
+        "region": "New York, USA"
+    },
+    {
+        "name": "Gilgo Beach",
+        "region": "New York, USA"
+    },
+    {
+        "name": "Point Judith",
+        "region": "Rhode Island, USA"
+    },
+    {
+        "name": "Narragansett",
+        "region": "Rhode Island, USA"
+    },
+    {
+        "name": "Matunuck",
+        "region": "Rhode Island, USA"
+    },
+    {
+        "name": "Sachuest Beach",
+        "region": "Rhode Island, USA"
+    },
+    {
+        "name": "First Beach",
+        "region": "Rhode Island, USA"
+    },
+    {
+        "name": "Second Beach",
+        "region": "Rhode Island, USA"
+    },
+    {
+        "name": "Hampton Beach",
+        "region": "New Hampshire, USA"
+    },
+    {
+        "name": "Seabrook Beach",
+        "region": "New Hampshire, USA"
+    },
+    {
+        "name": "Old Orchard Beach",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Wells Beach",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Ogunquit Beach",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "York Beach",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Cape Elizabeth",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Reid State Park",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Popham Beach",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Crescent Beach",
+        "region": "Maine, USA"
+    },
+    {
+        "name": "Nantasket Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Revere Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Nahant Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Horseneck Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Duxbury Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Nauset Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Coast Guard Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "White Crest Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Marconi Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Race Point Beach",
+        "region": "Massachusetts, USA"
+    },
+    {
+        "name": "Virginia Beach",
+        "region": "Virginia, USA"
+    },
+    {
+        "name": "Sandbridge Beach",
+        "region": "Virginia, USA"
+    },
+    {
+        "name": "Buckroe Beach",
+        "region": "Virginia, USA"
+    },
+    {
+        "name": "Chincoteague",
+        "region": "Virginia, USA"
+    },
+    {
+        "name": "Assateague Island",
+        "region": "Maryland, USA"
+    },
+    {
+        "name": "Ocean City",
+        "region": "Maryland, USA"
+    },
+    {
+        "name": "Fenwick Island",
+        "region": "Delaware, USA"
+    },
+    {
+        "name": "Bethany Beach",
+        "region": "Delaware, USA"
+    },
+    {
+        "name": "Rehoboth Beach",
+        "region": "Delaware, USA"
+    },
+    {
+        "name": "Dewey Beach",
+        "region": "Delaware, USA"
+    },
+    {
+        "name": "Myrtle Beach",
+        "region": "South Carolina, USA"
+    },
+    {
+        "name": "Folly Beach",
+        "region": "South Carolina, USA"
+    },
+    {
+        "name": "Isle of Palms",
+        "region": "South Carolina, USA"
+    },
+    {
+        "name": "Surfside Beach",
+        "region": "South Carolina, USA"
+    },
+    {
+        "name": "Hilton Head Island",
+        "region": "South Carolina, USA"
+    },
+    {
+        "name": "Tybee Island",
+        "region": "Georgia, USA"
+    },
+    {
+        "name": "Jekyll Island",
+        "region": "Georgia, USA"
+    },
+    {
+        "name": "St. Simons Island",
+        "region": "Georgia, USA"
+    },
+    {
+        "name": "Amelia Island",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Jacksonville Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Neptune Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Atlantic Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Flagler Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Ormond Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Daytona Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "New Smyrna Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Cocoa Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Satellite Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Melbourne Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Vero Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Fort Pierce",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Jensen Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Stuart Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Juno Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Palm Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Delray Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Boca Raton",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Deerfield Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Pompano Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Fort Lauderdale",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Hollywood Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Haulover Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "South Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Virginia Key",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Crandon Park",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Key Biscayne",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Bill Baggs Cape Florida",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Bahia Honda",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Smathers Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Higgs Beach",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Fort Zachary Taylor",
+        "region": "Florida, USA"
+    },
+    {
+        "name": "Dry Tortugas",
+        "region": "Florida, USA"
+    }
 ]
